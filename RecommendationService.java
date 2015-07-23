@@ -21,7 +21,7 @@ package com.example.ivan.recoammico;
  *
  * Note that the returned list can be EMPTY if recommendation failed for any reason (see logs).
  *
- * author:  Ivan Keller
+ * author: Ivan Keller
  * version: 2.1
  */
 
